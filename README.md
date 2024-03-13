@@ -48,3 +48,5 @@ nano /etc/nanorc
 ![for문예제](https://raw.githubusercontent.com/been2525/embedded-system-2024/main/picture/for문.png)
 
 ![for문출력값](https://raw.githubusercontent.com/been2525/embedded-system-2024/main/picture/for문출력값.png)
+
+- C언어 반복문 복습
