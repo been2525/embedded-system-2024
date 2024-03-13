@@ -31,4 +31,4 @@ nano /etc/nanorc
 - linux는 텍스트기반이다.
 - nano test.c -> c언어 코드를 작성할수 있는 환경이 생성된다.
 
-![printf예제](https://raw.githubusercontent.com/been2525/embedded-system-2024/main/images/printf.png)
+![printf예제](https://raw.githubusercontent.com/been2525/embedded-system-2024/main/picture/printf.png)
