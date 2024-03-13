@@ -15,6 +15,9 @@ IoT개발자 임베디드시스템 학습리포지토리
 	- mkdir->새로우 디렉터리 만듬
 	- rm -> remove
 	- rm -fr Work -> Work 삭제
+	
+![제거예제](https://raw.githubusercontent.com/been2525/embedded-system-2024/main/picture/제거.png)
+	
 	- ls -a->숨겨진 파일까지 다 볼수있게 해준다.
 	- clear -> 화면지움
 	- ls -l -> 상세하게 보여줌
@@ -29,6 +32,18 @@ nano /etc/nanorc
 
 ## 2일차
 - linux는 텍스트기반이다.
-- nano test.c -> c언어 코드를 작성할수 있는 환경이 생성된다.
+- nano test.c -> c언어 코드를 작성할수 있는 test라는 코딩 환경이 생성된다.
 
 ![printf예제](https://raw.githubusercontent.com/been2525/embedded-system-2024/main/picture/printf.png)
+- mv 이동
+- cp copy
+- gcc test03.c 실행파일을 안줄때는 이렇게 한다 -> a.out 생성
+- gcc -o t3 test03.c -> 꼭 이 순서 지킬것
+
+![출력예제](https://raw.githubusercontent.com/been2525/embedded-system-2024/main/picture/출력.png)
+
+![출력값](https://raw.githubusercontent.com/been2525/embedded-system-2024/main/picture/출력값.png)
+
+![for문예제](https://raw.githubusercontent.com/been2525/embedded-system-2024/main/picture/for문.png)
+
+![for문출력값](https://raw.githubusercontent.com/been2525/embedded-system-2024/main/picture/for문출력값.png)
