@@ -14,10 +14,7 @@ IoT개발자 임베디드시스템 학습리포지토리
 	- pwd -> 현재 내위치
 	- mkdir->새로우 디렉터리 만듬
 	- rm -> remove
-	- rm -fr Work -> Work 삭제
-	
-![제거예제](https://raw.githubusercontent.com/been2525/embedded-system-2024/main/picture/제거.png)
-	
+	- rm -fr Work -> Work 삭제	
 	- ls -a->숨겨진 파일까지 다 볼수있게 해준다.
 	- clear -> 화면지움
 	- ls -l -> 상세하게 보여줌
@@ -26,9 +23,13 @@ IoT개발자 임베디드시스템 학습리포지토리
 	- .. 상위디렉토리로 빠져나감
 	- /etc 환경관련 파일
 	- sudo -> 관리자권한으로 접근하게 해주는 명령어
+	
 ``` C
 nano /etc/nanorc
 ```
+
+![제거예제](https://raw.githubusercontent.com/been2525/embedded-system-2024/main/picture/제거.png)
+
 
 ## 2일차
 - linux는 텍스트기반이다.
