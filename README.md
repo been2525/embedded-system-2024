@@ -50,3 +50,18 @@ nano /etc/nanorc
 ![for문출력값](https://raw.githubusercontent.com/been2525/embedded-system-2024/main/picture/for문출력값.png)
 
 - C언어 반복문 복습
+
+## 3일차
+- 연결리스트
+	- 할당
+	- 삭제
+	- 전위삽입
+	- 후위삽입
+```C
+node* curr = head -> next
+while(curr != NULL)
+{
+	printf("%d\n", curr->data);
+	curr -> next;
+}
+```
