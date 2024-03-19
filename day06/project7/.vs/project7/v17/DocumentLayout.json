@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sources\\embedded-system-2024\\day06\\project7\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{65ACDD30-F97E-4089-8584-72738614612F}|project7.vcxproj|C:\\Sources\\embedded-system-2024\\day06\\project7\\inputf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65ACDD30-F97E-4089-8584-72738614612F}|project7.vcxproj|solutionrelative:inputf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65ACDD30-F97E-4089-8584-72738614612F}|project7.vcxproj|C:\\Sources\\embedded-system-2024\\day06\\project7\\printf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65ACDD30-F97E-4089-8584-72738614612F}|project7.vcxproj|solutionrelative:printf.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65ACDD30-F97E-4089-8584-72738614612F}|project7.vcxproj|C:\\Sources\\embedded-system-2024\\day06\\project7\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65ACDD30-F97E-4089-8584-72738614612F}|project7.vcxproj|solutionrelative:main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{65ACDD30-F97E-4089-8584-72738614612F}|project7.vcxproj|C:\\Sources\\embedded-system-2024\\day06\\project7\\queue02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{65ACDD30-F97E-4089-8584-72738614612F}|project7.vcxproj|solutionrelative:queue02.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "printf.c",
+              "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\day06\\project7\\printf.c",
+              "RelativeDocumentMoniker": "printf.c",
+              "ToolTip": "C:\\Sources\\embedded-system-2024\\day06\\project7\\printf.c",
+              "RelativeToolTip": "printf.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-19T03:20:09.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "inputf.c",
+              "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\day06\\project7\\inputf.c",
+              "RelativeDocumentMoniker": "inputf.c",
+              "ToolTip": "C:\\Sources\\embedded-system-2024\\day06\\project7\\inputf.c",
+              "RelativeToolTip": "inputf.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-19T03:18:28.863Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "main.c",
+              "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\day06\\project7\\main.c",
+              "RelativeDocumentMoniker": "main.c",
+              "ToolTip": "C:\\Sources\\embedded-system-2024\\day06\\project7\\main.c",
+              "RelativeToolTip": "main.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-03-19T03:15:52.564Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "queue02.cpp",
+              "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\day06\\project7\\queue02.cpp",
+              "RelativeDocumentMoniker": "queue02.cpp",
+              "ToolTip": "C:\\Sources\\embedded-system-2024\\day06\\project7\\queue02.cpp",
+              "RelativeToolTip": "queue02.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAABAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-19T00:40:34.669Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
