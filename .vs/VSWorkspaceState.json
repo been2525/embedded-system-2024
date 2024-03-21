@@ -1,9 +1,11 @@
 {
   "ExpandedNodes": [
     "",
-    "\\day01",
-    "\\day02"
+    "\\day03",
+    "\\day04",
+    "\\day05",
+    "\\day05\\project5"
   ],
-  "SelectedNode": "\\README.md",
+  "SelectedNode": "\\day05\\project5\\stack01.cpp",
   "PreviewInSolutionExplorer": false
 }

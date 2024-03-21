@@ -40,7 +40,7 @@
               "RelativeDocumentMoniker": "file04.c",
               "ToolTip": "C:\\Sources\\embedded-system-2024\\day07\\project8\\file04.c",
               "RelativeToolTip": "file04.c",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAACAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAMAAAADAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-03-20T07:59:43.808Z",
               "EditorCaption": ""
@@ -55,8 +55,7 @@
               "RelativeToolTip": "file03.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAZAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-20T06:48:49.136Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T06:48:49.136Z"
             },
             {
               "$type": "Document",
@@ -68,8 +67,7 @@
               "RelativeToolTip": "low_read.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-20T06:15:08.42Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T06:15:08.42Z"
             },
             {
               "$type": "Document",
@@ -81,8 +79,7 @@
               "RelativeToolTip": "low_open.c",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2024-03-20T05:54:28.312Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T05:54:28.312Z"
             },
             {
               "$type": "Document",
@@ -94,8 +91,7 @@
               "RelativeToolTip": "file02.cpp",
               "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-20T05:20:26.951Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-03-20T05:20:26.951Z"
             }
           ]
         }
