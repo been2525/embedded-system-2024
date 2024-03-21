@@ -83,6 +83,11 @@ while(curr != NULL)
 - 연결리스트를 활용하여서 큐만들기
 - makefile을 활용하여서 바로 실행파일 만들기
 
+![make활용](https://raw.githubusercontent.com/been2525/embedded-system-2024/main/picture/make.png)
+
+
+![makefile활용](https://raw.githubusercontent.com/been2525/embedded-system-2024/main/picture/makefile.png)
+
 ## 7일차
 - 파일입출력
 	- 리눅스기반 파일 입출력
@@ -91,3 +96,5 @@ while(curr != NULL)
 		- O_CREAT : 필요하면 파일을 생성
 		- O_WRONLY : 쓰기 전용으로 파일 오픈
 		- 파일입출력을 활용하여서 파일 복사하기
+		
+## 8일차
