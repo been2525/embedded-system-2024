@@ -9,6 +9,8 @@ typedef struct
 	int price;
 	char title[BUF_SZ];
 	char author[BUF_SZ];
+	char isbn[BUF_SZ];
+	char publish[BUF_SZ];
 }Book;
 
 int main(void)
@@ -45,15 +47,20 @@ int main(void)
 			scanf("%s", book[numproduct].title);
 			printf("저자를 입력하세요: ");
 			scanf("%s", book[numproduct].author);
+			printf("ISBN을 입력하세요: ");
+			scanf("%s", book[numproduct].isbn);
+			printf("출판사를 입력하세요: ");
+			scanf("%s", book[numproduct].publish);
 			//strcpy(book[numproduct].id, id);
 			//strcpy(book[numproduct].author, author);
 			//strcpy(book[numproduct].title, title);
 			//book[numproduct].price = price;
-			printf("아이디 : %s, 가격: %d, 제목: %s, 저자: %s\n", book[numproduct].id, &book[numproduct].price, book[numproduct].title, book[numproduct].author);
+			printf("아이디 : %s, 가격: %d, 제목: %s, 저자: %s, ISBN: %s, 출판사: %s\n", book[numproduct].id, &book[numproduct].price, book[numproduct].title, book[numproduct].author,book[numproduct].isbn, book[numproduct].publish);
 			numproduct++;
 		}
 		else if (menunum == 2)
 		{
+			printf("도서를 검색하기 위한 상세조건을 고르시오\n");
 			printf("찾는 도서의 이름을 입력하세요\n");
 			printf("> ");
 			scanf("%s", findbook);
@@ -100,7 +107,7 @@ int main(void)
 		{
 			for (int i = 0; i < numproduct ; i++)
 			{
-				printf("저자: %s, id: %s, 가격: %d, 제목: %s\n", book[i].author, book[i].id, book[i].price, book[i].title);
+				printf("저자: %s, id: %s, 가격: %d, 제목: %s, ISBN: %s, 출판사: %s\n", book[i].author, book[i].id, book[i].price, book[i].title, book[i].isbn, book[i].publish);
 			}
 		}
 	}

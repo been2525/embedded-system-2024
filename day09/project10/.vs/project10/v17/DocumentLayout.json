@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sources\\embedded-system-2024\\day09\\project10\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EA7F8C66-1A5E-4760-9D72-E1557B5F3F54}|project10.vcxproj|C:\\Sources\\embedded-system-2024\\day09\\project10\\secondproject_v2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA7F8C66-1A5E-4760-9D72-E1557B5F3F54}|project10.vcxproj|solutionrelative:secondproject_v2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EA7F8C66-1A5E-4760-9D72-E1557B5F3F54}|project10.vcxproj|C:\\Sources\\embedded-system-2024\\day09\\project10\\project10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{EA7F8C66-1A5E-4760-9D72-E1557B5F3F54}|project10.vcxproj|solutionrelative:project10.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "secondproject_v2.cpp",
+              "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\day09\\project10\\secondproject_v2.cpp",
+              "RelativeDocumentMoniker": "secondproject_v2.cpp",
+              "ToolTip": "C:\\Sources\\embedded-system-2024\\day09\\project10\\secondproject_v2.cpp",
+              "RelativeToolTip": "secondproject_v2.cpp",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAACIAAAADAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-22T00:06:41.723Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "project10.cpp",
+              "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\day09\\project10\\project10.cpp",
+              "RelativeDocumentMoniker": "project10.cpp",
+              "ToolTip": "C:\\Sources\\embedded-system-2024\\day09\\project10\\project10.cpp",
+              "RelativeToolTip": "project10.cpp",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2024-03-22T00:05:58.666Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

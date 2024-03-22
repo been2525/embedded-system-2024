@@ -1,0 +1,13 @@
+﻿  secondproject_v2.cpp
+C:\Sources\embedded-system-2024\day09\project10\secondproject_v2.cpp(57,11): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 2의 형식이 'int *'입니다.
+C:\Sources\embedded-system-2024\day09\project10\secondproject_v2.cpp(57,11): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int *' 형식의 인수 2과(와) 충돌합니다.
+C:\Sources\embedded-system-2024\day09\project10\secondproject_v2.cpp(57,11): warning C4477: 'printf' : 서식 문자열 '%d'에 'int' 형식의 인수가 필요하지만 variadic 인수 5의 형식이 'int *'입니다.
+C:\Sources\embedded-system-2024\day09\project10\secondproject_v2.cpp(57,11): warning C4313: 'printf': 서식 문자열의 '%d'이(가) int *' 형식의 인수 5과(와) 충돌합니다.
+C:\Sources\embedded-system-2024\day09\project10\secondproject_v2.cpp(42,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded-system-2024\day09\project10\secondproject_v2.cpp(44,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded-system-2024\day09\project10\secondproject_v2.cpp(46,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded-system-2024\day09\project10\secondproject_v2.cpp(48,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded-system-2024\day09\project10\secondproject_v2.cpp(52,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded-system-2024\day09\project10\secondproject_v2.cpp(64,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+C:\Sources\embedded-system-2024\day09\project10\secondproject_v2.cpp(87,4): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  project10.vcxproj -> C:\Sources\embedded-system-2024\day09\project10\x64\Debug\project10.exe
