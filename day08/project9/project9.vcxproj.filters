@@ -33,5 +33,11 @@
     <ClCompile Include="secondproject_v1_list.cpp">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="test02.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
+    <ClCompile Include="secondproject_v2_list.cpp">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
