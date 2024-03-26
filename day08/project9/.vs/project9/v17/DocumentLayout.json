@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "C:\\Sources\\embedded-system-2024\\day08\\project9\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{DCFF3E20-8B3F-4575-B5A5-44B81BC7502C}|project9.vcxproj|C:\\Sources\\embedded-system-2024\\day08\\project9\\secondproject_v2_list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DCFF3E20-8B3F-4575-B5A5-44B81BC7502C}|project9.vcxproj|solutionrelative:secondproject_v2_list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DCFF3E20-8B3F-4575-B5A5-44B81BC7502C}|project9.vcxproj|C:\\Sources\\embedded-system-2024\\day08\\project9\\secondproject_v2_list.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DCFF3E20-8B3F-4575-B5A5-44B81BC7502C}|project9.vcxproj|solutionrelative:secondproject_v2_list.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{DCFF3E20-8B3F-4575-B5A5-44B81BC7502C}|project9.vcxproj|C:\\Sources\\embedded-system-2024\\day08\\project9\\secondproject_v1_list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DCFF3E20-8B3F-4575-B5A5-44B81BC7502C}|project9.vcxproj|solutionrelative:secondproject_v1_list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{DCFF3E20-8B3F-4575-B5A5-44B81BC7502C}|project9.vcxproj|C:\\Sources\\embedded-system-2024\\day08\\project9\\firstproject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{DCFF3E20-8B3F-4575-B5A5-44B81BC7502C}|project9.vcxproj|solutionrelative:firstproject.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{DCFF3E20-8B3F-4575-B5A5-44B81BC7502C}|project9.vcxproj|C:\\Sources\\embedded-system-2024\\day08\\project9\\secondproject_v1_list.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DCFF3E20-8B3F-4575-B5A5-44B81BC7502C}|project9.vcxproj|solutionrelative:secondproject_v1_list.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -27,40 +23,27 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "secondproject_v2_list.cpp",
-              "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\day08\\project9\\secondproject_v2_list.cpp",
-              "RelativeDocumentMoniker": "secondproject_v2_list.cpp",
-              "ToolTip": "C:\\Sources\\embedded-system-2024\\day08\\project9\\secondproject_v2_list.cpp",
-              "RelativeToolTip": "secondproject_v2_list.cpp",
-              "ViewState": "AQIAAF0AAAAAAAAAAAAAAGsAAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "Title": "secondproject_v2_list.c",
+              "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\day08\\project9\\secondproject_v2_list.c",
+              "RelativeDocumentMoniker": "secondproject_v2_list.c",
+              "ToolTip": "C:\\Sources\\embedded-system-2024\\day08\\project9\\secondproject_v2_list.c",
+              "RelativeToolTip": "secondproject_v2_list.c",
+              "ViewState": "AQIAABgAAAAAAAAAAAAAAB0AAAAhAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-03-25T02:41:03.344Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "secondproject_v1_list.cpp",
-              "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\day08\\project9\\secondproject_v1_list.cpp",
-              "RelativeDocumentMoniker": "secondproject_v1_list.cpp",
-              "ToolTip": "C:\\Sources\\embedded-system-2024\\day08\\project9\\secondproject_v1_list.cpp",
-              "RelativeToolTip": "secondproject_v1_list.cpp",
-              "ViewState": "AQIAALEAAAAAAAAAAAAAANsAAAABAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "Title": "secondproject_v1_list.c",
+              "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\day08\\project9\\secondproject_v1_list.c",
+              "RelativeDocumentMoniker": "secondproject_v1_list.c",
+              "ToolTip": "C:\\Sources\\embedded-system-2024\\day08\\project9\\secondproject_v1_list.c",
+              "RelativeToolTip": "secondproject_v1_list.c",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAUAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2024-03-22T08:22:10.051Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "firstproject.cpp",
-              "DocumentMoniker": "C:\\Sources\\embedded-system-2024\\day08\\project9\\firstproject.cpp",
-              "RelativeDocumentMoniker": "firstproject.cpp",
-              "ToolTip": "C:\\Sources\\embedded-system-2024\\day08\\project9\\firstproject.cpp",
-              "RelativeToolTip": "firstproject.cpp",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2024-03-21T02:12:25.917Z",
               "EditorCaption": ""
             }
           ]
